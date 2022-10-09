@@ -13,6 +13,9 @@ This analysis focuses on analyzing the Amazon Vine program to see whether there 
 
 ## Results
 
+![1](https://user-images.githubusercontent.com/107447038/194779227-ffcf1912-d7e1-4cc4-a50b-08f77a3dcf0d.png)
+![2](https://user-images.githubusercontent.com/107447038/194779230-b5855dfb-ba3a-4958-8cb2-fee22199f6d0.png)
+
 #### 1. Vine vs Non-Vine Reviews
 
 22 paid and 26924 unpaid reviews were present, to a total of 26946 total reviews.
