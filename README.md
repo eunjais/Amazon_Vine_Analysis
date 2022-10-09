@@ -13,15 +13,15 @@ This analysis focuses on analyzing the Amazon Vine program to see whether there 
 
 ## Results
 
-#### Vine vs Non-Vine Reviews
+#### 1. Vine vs Non-Vine Reviews
 
 22 paid and 26924 unpaid reviews were present, to a total of 26946 total reviews.
 
-#### 5 - Stars?
+#### 2. 5 - Stars?
 
 13 paid 5-star reviews and 12485 unpaid 5-star reviews were present, to a total of 14452 5-star reviews.
 
-#### Percentages
+#### 3. Percentages
 
 ##### Vine (Paid) Review Percentage
 
@@ -36,3 +36,5 @@ This analysis focuses on analyzing the Amazon Vine program to see whether there 
 - 46% of unpaid reviews were 5-star reviews. 
 
 ## Summary
+
+There seems to be a positive bias of the paid reviews for the Amazon program, given the fact that despite the very small population size of the paid reviews, 59% of them gave 5-star ratings whereas only 46% of a much bigger unpaid review pool gave 5-star ratings. It would be beneficial to conduct this analysis across different items and compare the trends of positive reviews to see whether paid reviews always have higher percentage 5-star reviews than unpaid. Furthermore, statistical analysis using st.dev, average, and margins of error would assist in proving the validity of this data pool.
