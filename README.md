@@ -23,6 +23,16 @@ This analysis focuses on analyzing the Amazon Vine program to see whether there 
 
 #### Percentages
 
-##### hhh
+##### Vine (Paid) Review Percentage
+
+- less than 0.1% of total reviews were made by paid reviewers.
+- less than 0.01% o 5-star reviews were made by paid reviewers.
+- 59% of paid reviews were 5-star reviews.
+
+##### Non-Vine (Unpaid) Review Percentages
+
+- 99.9% of total reviews were made by unpaid reviewers.
+- 86% of 5-star reviews were made by unpaid reviewers.
+- 46% of unpaid reviews were 5-star reviews. 
 
 ## Summary
